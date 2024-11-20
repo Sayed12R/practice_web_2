@@ -1,0 +1,149 @@
+.header{
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover
+}
+.hinfo{
+   padding-top: 180px;
+   padding-left: 1000px;
+   padding-bottom: 150px;
+   padding-right: 200px;
+   text-align: right;
+   
+}
+.hp{
+    font-size: 30px;
+}
+.hhead{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.bg{
+    background-color: #45a049;
+    padding: 10px 15px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.secinfo{
+    margin-left: 200px;
+}
+.sec11{
+    margin-top: 100px;
+    display: flex;
+}
+.sec12{
+    margin-left: 130px;
+    
+    
+}
+.sec13{
+    margin-left: 50px;
+    margin-right: 500px;
+    margin-top: 200px;}
+ul li{
+    font-size: 30px;
+}
+.h13{
+    font-size: 40px;
+}
+.p13{
+    font-size: 20px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.sec21{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+.iinfo{
+   text-align: center;
+}
+.gr{
+   background-image: url(../images/gradient3.png),url(../images/watch.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   /* margin-top: 60px; */
+   /* margin-bottom: 300px; */
+   margin-bottom: 0px;
+}
+.hgr1{
+    padding-right: 600px;
+    /* padding-bottom: 400px; */
+   padding-left: 520px;
+    width: 400px;
+   text-align: left;
+   padding-top: 200px;
+   padding-bottom: 250px;
+   font-size: 20px;
+   color: white;
+}
+.bg1{
+    background-color: white;
+    padding: 10px 15px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 0px;
+    color: #45a049;
+}
+.bg:hover {
+    background-color: #a29a2a;
+}
+.bg1:hover{
+    background-color: antiquewhite;
+}
+.footer{
+    display: flex;
+    background-color: black;
+    margin-top: 0px;
+    justify-content: center;
+    justify-content: space-around;
+    /* padding-bottom: 300px; */
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.future, .subs{
+   color: white;
+   width: 500px;
+   font-size: 22px;
+}
+.icon1{
+    
+   
+   margin-left: 0px;
+   gap: 10px;
+  
+   
+}
+.contact input{
+    display: block;
+    margin-bottom: 25px;
+    padding: 20px 200px 20px 10px;
+    border: 0px;
+    /* width: 100%; */
+    text-align: left;
+    text-align: left;
+    /* padding: 0 1.25rem; */
+}
+.contact input::placeholder {
+    font-size: 20px; /* Adjust the size as needed */
+    color: #aaa; /* Optional: Change the placeholder text color */
+    text-align: left;
+}
+
+   
+   
+
